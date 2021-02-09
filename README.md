@@ -1,1 +1,1 @@
-# python-textbook-deeplearning
+# python-textbook-deep_learning
